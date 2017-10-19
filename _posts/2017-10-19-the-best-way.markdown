@@ -10,7 +10,7 @@ tag: [Travel, Blogging, Mountains]
  <HTML>
   <body>
 <audio controls="controls">
-  <source src="/assets/我在人民广场吃炸鸡.mp3" type="audio/mpeg">
+  <source src="/assets/我在人民广场吃炸鸡.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
     </body>
