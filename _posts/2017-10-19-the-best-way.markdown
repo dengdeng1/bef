@@ -7,15 +7,10 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Travel, Blogging, Mountains]
 ---
  
-<audio controls="controls">
-  <source src="/assets/video/我在人民广场吃炸鸡.mp3" type="audio/mp3">
-Your browser does not support the audio element.
-</audio>
 
 <audio controls="controls" height="100" width="100">
   <source src="/assets/video/我在人民广场吃炸鸡.mp3" type="audio/mp3" />
-  <source src="/assets/video/我在人民广场吃炸鸡.ogg" type="audio/ogg" />
-<embed height="100" width="100" src="song.mp3" />
+<embed height="100" width="100" src="我在人民广场吃炸鸡.mp3" />
 </audio>
   
 
