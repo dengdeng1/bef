@@ -8,8 +8,8 @@ tag: [Travel, Blogging, Mountains]
 ---
  
 <audio controls="controls" height="100" width="100">
-  <source src="我在人民广场吃炸鸡.mp3" type="audio/mp3" />
-  <source src="我在人民广场吃炸鸡.ogg" type="audio/ogg" />
+  <source src="/assets/video/我在人民广场吃炸鸡.mp3" type="audio/mp3" />
+  <source src="/assets/video/我在人民广场吃炸鸡.ogg" type="audio/ogg" />
 <embed height="100" width="100" src="我在人民广场吃炸鸡.mp3" />
 </audio>
 
