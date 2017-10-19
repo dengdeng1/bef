@@ -10,9 +10,9 @@ tag: [自然拼读, 故事书, 拓展]
  
  
 <audio controls="controls" width="100%" >
-  <source src="http://ovn22yl0w.bkt.clouddn.com/Jam%20in%20the%20Jeep1.mp3" type="audio/mp3" />
+  <source src="http://ovn22yl0w.bkt.clouddn.com/A%20Bug%20on%20My%20Nose.mp3" type="audio/mp3" />
 
-<embed  width="100%" src="http://ovn22yl0w.bkt.clouddn.com/Jam%20in%20the%20Jeep1.mp3" />
+<embed  width="100%" src="http://ovn22yl0w.bkt.clouddn.com/A%20Bug%20on%20My%20Nose.mp3" />
 </audio>
 
 
