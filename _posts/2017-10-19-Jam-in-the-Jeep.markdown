@@ -17,11 +17,11 @@ tag: [自然拼读, 故事书, 拓展]
 
 <img src="http://ovn22yl0w.bkt.clouddn.com/Jam%20in%20the%20Jeep.png" width="100%" >
 
-＃＃ 重点单词哦
-－ jam  果酱
-－ Jeep 吉普车
-－ kiwi 猕猴桃
-－ keg  小桶
-－ bug  虫子
-－ leg  腿
-－ jog  小跑
+## 重点单词哦
+- jam  果酱
+- Jeep 吉普车
+- kiwi 猕猴桃
+- keg  小桶
+- bug  虫子
+- leg  腿
+- jog  小跑
