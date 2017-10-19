@@ -20,11 +20,11 @@ tag: [自然拼读, 故事书, 拓展]
 <img src="http://ovn22yl0w.bkt.clouddn.com/20-21.png" width="100%" >
 
 ## 重点单词哦
-- on   在什么上面
-- nose 鼻子
-- pig 猪
-- hit 击打
-- man  男人
-- mop 用拖把擦 
-- net   网子
-- nap   小睡
+- on       在什么上面
+- nose     鼻子
+- pig      猪
+- hit      击打
+- man      男人
+- mop      用拖把擦 
+- net      网子
+- nap      小睡
