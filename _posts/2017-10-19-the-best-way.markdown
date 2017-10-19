@@ -15,9 +15,9 @@ tag: [三年级, 冀教版, 课本录音]
 
 
 
-<img src="http://ovn22yl0w.bkt.clouddn.com/12.jpg" width="95%" align="middle">
+<img src="http://ovn22yl0w.bkt.clouddn.com/12.jpg" width="100%" >
 
-<img src="http://ovn22yl0w.bkt.clouddn.com/13.jpg" width="95%" align="middle">
+<img src="http://ovn22yl0w.bkt.clouddn.com/13.jpg" width="100%" >
 
 
 
