@@ -7,7 +7,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [三年级, 冀教版, 课本录音]
 ---
  
-<audio controls="controls" height="100" width="100" align="middle">
+<audio controls="controls" width="85%" >
   <source src="http://7xrp7u.com1.z0.glb.clouddn.com/%E6%88%91%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA%E5%90%83%E7%82%B8%E9%B8%A1.mp3" type="audio/mp3" />
   <source src="http://7xrp7u.com1.z0.glb.clouddn.com/%E6%88%91%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA%E5%90%83%E7%82%B8%E9%B8%A1.mp3.ogg" type="audio/ogg" />
 <embed height="100" width="100" src="我在人民广场吃炸鸡.mp3" />
