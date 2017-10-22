@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lesson 2 Boy, Girl and teacher"
+title: "Lesson 2 Boy, Girl and Teacher"
 img: himalayan.jpg # Add image post (optional)
 date: 2017-10-22 08:37:00  -0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
