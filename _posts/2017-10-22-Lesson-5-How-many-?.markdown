@@ -32,6 +32,6 @@ tag: [三年级, 冀教版, 课本录音]
 
 
 ## 重点句型
-- How many pencils do you have?   你有多少根铅笔？
+- How many pencils do you have?    你有多少根铅笔？
 - I have ... .     我有    。
  
