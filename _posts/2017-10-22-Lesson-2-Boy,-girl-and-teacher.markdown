@@ -10,9 +10,9 @@ tag: [三年级, 冀教版, 课本录音]
  
  
 <audio controls="controls" width="100%" >
-  <source src="http://ovn22yl0w.bkt.clouddn.com/lesson3.mp3" type="audio/mp3" />
+  <source src="http://ovn22yl0w.bkt.clouddn.com/lesson2.mp3" type="audio/mp3" />
 
-<embed  width="100%" src="http://ovn22yl0w.bkt.clouddn.com/lesson3.mp3" />
+<embed  width="100%" src="http://ovn22yl0w.bkt.clouddn.com/lesson2.mp3" />
 </audio>
 
 
