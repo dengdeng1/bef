@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Lesson 1"
+img: himalayan.jpg # Add image post (optional)
+date: 2017-10-22 08:20:00  -0800
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [三年级, 冀教版, 课本录音]
+---
+
+ 
+ 
+<audio controls="controls" width="100%" >
+  <source src="http://ovn22yl0w.bkt.clouddn.com/lesson1.mp3" type="audio/mp3" />
+
+<embed  width="100%" src="http://ovn22yl0w.bkt.clouddn.com/lesson1.mp3" />
+</audio>
+
+
+
+<img src="http://ovn22yl0w.bkt.clouddn.com/2.jpg" width="100%" >
+<img src="http://ovn22yl0w.bkt.clouddn.com/3.jpg" width="100%" >
+
+
+## 重点单词哦
+- hello  你好
+- hi     你好
+- what    什么
+－ name  名字
+
+
+## 重点句型
+－ what's your name？   你的名字是什么？
+－ My name is ... .     我的名字是    。
+ 
+
