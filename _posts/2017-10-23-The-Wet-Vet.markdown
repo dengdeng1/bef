@@ -19,12 +19,14 @@ tag: [自然拼读, 故事书, 拓展]
 
 <img src="http://7xqbv5.com1.z0.glb.clouddn.com/The%20Wet%20Vet.png" >
 
-## 重点单词哦
-- on       在什么上面
-- nose     鼻子
-- pig      猪
-- hit      击打
-- man      男人
-- mop      用拖把擦 
-- net      网子
-- nap      小睡
+# The Wet Vet
+## 重点单词
+-	wolf	狼
+-	wet 	湿的
+-	wig 	假发
+- 	on   在什么上边 
+- 	net		网
+- 	in    在什么里面
+- 	van  	送货车
+- 	vet		兽医
+-	win		获胜
