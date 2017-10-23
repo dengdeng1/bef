@@ -15,7 +15,7 @@ tag: [自然拼读, 故事书, 拓展]
 
 
 
-<img src="http://ovn22yl0w.bkt.clouddn.com/Jam%20in%20the%20Jeep.png" width="100%" >
+<img src="http://ovn22yl0w.bkt.clouddn.com/A%20Bug%20on%20My%20Nose.png" width="100%" >
 
 ## 重点单词哦
 - jam  果酱
