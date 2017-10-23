@@ -19,8 +19,9 @@ tag: [自然拼读, 故事书, 拓展]
 
 <img src="http://7xqbv5.com1.z0.glb.clouddn.com/Fun%20Quilt.png" >
 
-#Fun Quilt
-##重点单词
+# Fun Quilt
+
+## 重点单词
 -	like 喜欢
 -	quilt	被子
 -	see		看见
@@ -30,5 +31,5 @@ tag: [自然拼读, 故事书, 拓展]
 - 	queen  女王
 - 	run		跑
 -	rat		老鼠
-##积累句型
+## 积累句型
 - Do you like....？你喜欢吗？
