@@ -17,7 +17,7 @@ tag: [自然拼读, 故事书, 拓展]
 
 
 
-<img src="http://7xqbv5.com1.z0.glb.clouddn.com/The%20Box%20for%20Ox.png" >
+<img src="http://7xqbv5.com1.z0.glb.clouddn.com/The%20Box%20for%20Ox.png" style="max-width:100%;"/>
 
 ## 重点单词哦
 - on       在什么上面
