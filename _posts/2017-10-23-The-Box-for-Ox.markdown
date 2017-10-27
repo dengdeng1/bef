@@ -9,7 +9,7 @@ tag: [自然拼读, 故事书, 拓展]
 
  
  
-<audio controls="controls" width:100% >
+<audio controls="controls" width:"100% ">
   <source src="http://7xqbv5.com1.z0.glb.clouddn.com/The%20Box%20for%20Ox.mp3" />
 
 <embed  width="100%" src="http://7xqbv5.com1.z0.glb.clouddn.com/The%20Box%20for%20Ox.mp3" />
