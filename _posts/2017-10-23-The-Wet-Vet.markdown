@@ -17,7 +17,7 @@ tag: [自然拼读, 故事书, 拓展]
 
 
 
-<img src="http://7xqbv5.com1.z0.glb.clouddn.com/The%20Wet%20Vet.png" width=100%; height=auto;max-width=“100%”; display: block; >
+<img src="http://7xqbv5.com1.z0.glb.clouddn.com/The%20Wet%20Vet.png" style="max-width:100%;"/>
 
 # The Wet Vet
 ## 重点单词
